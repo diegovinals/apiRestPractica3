@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "tipo": "Portatil",
+    "nombreSO": "Linux",
+    "versionSO": "5.15.3",
+    "tipoDisc": "SSD",
+    "capacidadDisc": "250GB",
+    "sNombre": "Apache"
+  },
+  {
+    "id": 2,
+    "tipo": "Sobremesa",
+    "nombreSO": "Linux",
+    "versionSO": "5.15.3",
+    "tipoDisc": "SSD",
+    "capacidadDisc": "250GB",
+    "sNombre": "Apache"
+  },
+  {
+    "id": 3,
+    "tipo": "Sobremesa",
+    "nombreSO": "Windows",
+    "versionSO": "10.2",
+    "tipoDisc": "HDD",
+    "capacidadDisc": "1Tb",
+    "sNombre": "Apache"
+  }
+]

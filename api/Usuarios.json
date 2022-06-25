@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "departamento": "Desarrollo",
+    "telefono": "657384958",
+    "correo": "pejrhrerg@hotmail.com",
+    "ubicacion": "Domingo 35"
+  },
+  {
+    "id": 2,
+    "nombre": "Jorge",
+    "departamento": "Desarrollo",
+    "telefono": "656478347",
+    "correo": "uhbgurbehi@hotmail.com",
+    "ubicacion": "Paco 35"
+  },
+  {
+    "id": 3,
+    "nombre": "Bartolo",
+    "departamento": "Desarrollo",
+    "telefono": "657384958",
+    "correo": "ugefubuer@hotmail.com",
+    "ubicacion": "Almeda 22"
+  },
+  {
+    "id": 5,
+    "nombre": "Miguelon",
+    "departamento": "Desarrollo",
+    "telefono": "638492043",
+    "correo": "uiwgheibgie@gmail.com",
+    "ubicacion": "Coso 93"
+  },
+  {
+    "id": 6,
+    "nombre": "Juanjo",
+    "departamento": "Desarrollo",
+    "telefono": "648394836",
+    "correo": "jkebrgjbjerg@hotmail.com",
+    "ubicacion": "Castellana 83"
+  },
+  {
+    "id": 7,
+    "nombre": "Clara",
+    "departamento": "Desarrollo",
+    "telefono": "648394836",
+    "correo": "jkebrgjbjerg@hotmail.com",
+    "ubicacion": "Serrano 92"
+  },
+  {
+    "id": 8,
+    "nombre": "Josh",
+    "departamento": "Desarrollo",
+    "telefono": "648394836",
+    "correo": "jkebrgjbjerg@hotmail.com",
+    "ubicacion": "Castellana 53"
+  }
+]
